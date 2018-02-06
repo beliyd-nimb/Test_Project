@@ -6,4 +6,7 @@ while(1)
 
 void read(void)
 {
+	if (i>0)
+	{
+	}
 }
