@@ -1,4 +1,9 @@
 while(1)
 {
 	int i := 0;
+	read();
+}
+
+void read(void)
+{
 }
